@@ -4,6 +4,7 @@
 模版素材网站 http://www.erdangjiade.com/   
 ### css
 css效果库 https://codepen.io   
+数字过渡动画网站 http://github.hubspot.com/odometer/docs/welcome/  
 判断css or js兼容范围: https://caniuse.com
 
 
